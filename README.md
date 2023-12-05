@@ -1,5 +1,5 @@
 # rocketseat-nodejs-desafio01
-Desafio referente a Trilha Node.js da Rocketseat: Fundamentos do Node.js
+Desafio referente a Trilha Node.js da Rocketseat: Fundamentos do Node.js e TypeScript
 
 ## Sobre o desafio
 

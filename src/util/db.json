@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Atividade 1",
+      "description": "acordar cedo",
+      "completed_at": "28/02/2023",
+      "created_at": "28/02/2023",
+      "updated_at": "28/02/2023"
+    },
+    {
+      "id": "d40c2c87-a219-40d8-ac4e-8f17075d36aa",
+      "title": "Atividade 2-",
+      "description": "escovar os dentes direito",
+      "completed_at": "",
+      "created_at": "2023-11-30T11:01:40.668Z",
+      "updated_at": "2023-11-30T13:09:12.134Z"
+    },
+    {
+      "id": "16fdec9b-f414-4ad2-a07d-6117494d287f",
+      "title": "Almoçar",
+      "description": "Carne e batata fria e salada",
+      "completed_at": null,
+      "created_at": "2023-11-30T13:08:04.880Z",
+      "updated_at": "2023-11-30T13:10:27.399Z"
+    },
+    {
+      "id": "f45c7c88-65a1-4cfe-ab71-4366c975c059",
+      "title": "Lancha",
+      "description": "Sanduiche",
+      "completed_at": "2023-12-01T17:07:37.611Z",
+      "created_at": "2023-11-30T13:11:26.019Z",
+      "updated_at": "2023-12-01T17:07:37.611Z"
+    },
+    {
+      "id": "4aa63f2a-17ae-4c14-bdf6-9ef44c18a347",
+      "title": "Jantar 2",
+      "description": "Frutas e Pipocas",
+      "completed_at": "2023-12-01T17:20:32.556Z",
+      "created_at": "2023-12-01T17:16:13.530Z",
+      "updated_at": "2023-12-01T17:20:32.556Z"
+    }
+  ]
+}
